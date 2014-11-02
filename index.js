@@ -1,2 +1,1 @@
-modeule.exports = {
-}
+module.exports = require('./lib/dir');

@@ -14,5 +14,8 @@
   "license": "MIT License (MIT)",
   "bugs": {
     "url": "https://github.com/kudla/fs-hash/issues"
+  },
+  "dependencies": {
+    "lodash": "^2.4.1"
   }
 }
